@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="close" transform="translate(-1344.062 -610.365)">
+    <g id="Ellipse_4540" data-name="Ellipse 4540" transform="translate(1344.062 610.365)" fill="#1f1f1f" stroke="#2e2e2e" stroke-width="1">
+      <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+      <circle cx="12.5" cy="12.5" r="12" fill="none"/>
+    </g>
+    <g id="Close-2" data-name="Close" transform="translate(1351.265 617.304)">
+      <path id="Path_19084" data-name="Path 19084" d="M30.961,30.942a.616.616,0,0,1-.863,0l-3.081-3.067-.431-.429a.609.609,0,0,1,.863-.859l.431.429,3.081,3.065A.609.609,0,0,1,30.961,30.942Z" transform="translate(-19.973 -19.999)" fill="#fff" stroke="#fff" stroke-width="0.3"/>
+      <path id="Path_19085" data-name="Path 19085" d="M10.988.177a.616.616,0,0,0-.863,0L5.581,4.7,1.041.177a.614.614,0,0,0-.863,0,.609.609,0,0,0,0,.859L4.719,5.56.178,10.083a.605.605,0,0,0,0,.859.612.612,0,0,0,.863,0l9.947-9.9a.607.607,0,0,0,0-.859Z" transform="translate(0.001 0)" fill="#fff" stroke="#fff" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.469" height="15.515" viewBox="0 0 21.469 15.515">
+  <g id="Group_42585" data-name="Group 42585" transform="translate(-512.154 -152.459)">
+    <g id="Speaker" transform="translate(511.75 174.85) rotate(-90)">
+      <g id="Group_38697" data-name="Group 38697" transform="matrix(0.017, 1, -1, 0.017, 23.453, -0.754)">
+        <g id="Group_42584" data-name="Group 42584">
+          <g id="Group_42583" data-name="Group 42583" transform="translate(0)">
+            <line id="Line_12340" data-name="Line 12340" x2="5.125" y2="5.125" transform="matrix(1, 0.017, -0.017, 1, 16.333, 6.327)" fill="none" stroke="#e6e6e7" stroke-linecap="round" stroke-width="1.5"/>
+            <line id="Line_12341" data-name="Line 12341" x1="5.125" y2="5.125" transform="matrix(1, 0.017, -0.017, 1, 16.333, 6.327)" fill="none" stroke="#e6e6e7" stroke-linecap="round" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_100399" data-name="Path 100399" d="M11.509,7.758q0,3.325,0,6.65a1.02,1.02,0,0,1-.932,1.1,1.1,1.1,0,0,1-.844-.274Q7,13.063,4.273,10.893a.616.616,0,0,0-.422-.15c-.9.007-1.8,0-2.7,0A1.031,1.031,0,0,1,0,9.638Q0,7.757,0,5.873A1.042,1.042,0,0,1,1.175,4.759c.9,0,1.8,0,2.693,0a.561.561,0,0,0,.384-.129Q6.979,2.459,9.712.294A1.093,1.093,0,0,1,10.9.1a1.007,1.007,0,0,1,.612,1.013Q11.5,4.434,11.509,7.758Z" transform="translate(512.154 152.459)" fill="#e6e6e7"/>
+  </g>
+</svg>
